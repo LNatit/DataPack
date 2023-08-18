@@ -5,9 +5,9 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-1/build-2/doraemon_props-1.1-2.jar.asc"
   },
   {
-    "name": "chinese_sword-1.0.8-24.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-14/build-24/chinese_sword-1.0.8-24.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-14/build-24/chinese_sword-1.0.8-24.jar.asc"
+    "name": "chinese_sword-1.0.9.1-1.16.5-25.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-14/build-25/chinese_sword-1.0.9.1-1.16.5-25.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-14/build-25/chinese_sword-1.0.9.1-1.16.5-25.jar.asc"
   },
   {
     "name": "thewanderingearth-0.0.1-22.jar",
@@ -15,9 +15,9 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-16/build-22/thewanderingearth-0.0.1-22.jar.asc"
   },
   {
-    "name": "unexpectedteleport-1.16.5-1.0.1-9.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-18/build-9/unexpectedteleport-1.16.5-1.0.1-9.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-18/build-9/unexpectedteleport-1.16.5-1.0.1-9.jar.asc"
+    "name": "unexpectedteleport-1.16.5-1.0.1-12.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-18/build-12/unexpectedteleport-1.16.5-1.0.1-12.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-18/build-12/unexpectedteleport-1.16.5-1.0.1-12.jar.asc"
   },
   {
     "name": "flycycle-1.16.5-0.1.0-18.jar",
@@ -25,19 +25,19 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-20/build-18/flycycle-1.16.5-0.1.0-18.jar.asc"
   },
   {
-    "name": "civilizationswars-1.0-preview1-51.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-22/build-51/civilizationswars-1.0-preview1-51.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-22/build-51/civilizationswars-1.0-preview1-51.jar.asc"
+    "name": "civilizationswars-1.0-preview1-52.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-22/build-52/civilizationswars-1.0-preview1-52.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-22/build-52/civilizationswars-1.0-preview1-52.jar.asc"
   },
   {
-    "name": "backtones-1.2.5.6-41.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-24/build-41/backtones-1.2.5.6-41.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-24/build-41/backtones-1.2.5.6-41.jar.asc"
+    "name": "backtones-1.2.5.7-44.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-24/build-44/backtones-1.2.5.7-44.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-24/build-44/backtones-1.2.5.7-44.jar.asc"
   },
   {
-    "name": "CrockPot-1.16.5-1.6.0-release-29.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-27/build-29/CrockPot-1.16.5-1.6.0-release-29.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-27/build-29/CrockPot-1.16.5-1.6.0-release-29.jar.asc"
+    "name": "CrockPot-1.16.5-1.6.1-release-30.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-27/build-30/CrockPot-1.16.5-1.6.1-release-30.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-27/build-30/CrockPot-1.16.5-1.6.1-release-30.jar.asc"
   },
   {
     "name": "king_and_knight-1.0-SNAPSHOT-18.jar",
@@ -45,19 +45,19 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-30/build-18/king_and_knight-1.0-SNAPSHOT-18.jar.asc"
   },
   {
-    "name": "rising_uppercut-1.16.5-teacon-special-20.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-31/build-20/rising_uppercut-1.16.5-teacon-special-20.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-31/build-20/rising_uppercut-1.16.5-teacon-special-20.jar.asc"
+    "name": "rising_uppercut-beta-0.1.1-21.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-31/build-21/rising_uppercut-beta-0.1.1-21.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-31/build-21/rising_uppercut-beta-0.1.1-21.jar.asc"
   },
   {
-    "name": "Ashihara-indev-01-22.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-35/build-22/Ashihara-indev-01-22.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-35/build-22/Ashihara-indev-01-22.jar.asc"
+    "name": "Ashihara-indev-01-23.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-35/build-23/Ashihara-indev-01-23.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-35/build-23/Ashihara-indev-01-23.jar.asc"
   },
   {
-    "name": "uusi-aurinko-0.2.4-48.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-38/build-48/uusi-aurinko-0.2.4-48.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-38/build-48/uusi-aurinko-0.2.4-48.jar.asc"
+    "name": "uusi-aurinko-0.2.4-50.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-38/build-50/uusi-aurinko-0.2.4-50.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-38/build-50/uusi-aurinko-0.2.4-50.jar.asc"
   },
   {
     "name": "SerializableConsciousness-1.16.5-1.0.0-20.jar",
@@ -65,9 +65,9 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-40/build-20/SerializableConsciousness-1.16.5-1.0.0-20.jar.asc"
   },
   {
-    "name": "TeaStory-4.1.12-Alpha-17.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-42/build-17/TeaStory-4.1.12-Alpha-17.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-42/build-17/TeaStory-4.1.12-Alpha-17.jar.asc"
+    "name": "TeaStory-4.1.12-Alpha-18.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-42/build-18/TeaStory-4.1.12-Alpha-18.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-42/build-18/TeaStory-4.1.12-Alpha-18.jar.asc"
   },
   {
     "name": "Contact-0.2.5-Alpha-10.jar",
@@ -90,14 +90,14 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-48/build-13/tea_sorcerer-1.0.0-13.jar.asc"
   },
   {
-    "name": "minecardstouhou-1.0.3-41.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-49/build-41/minecardstouhou-1.0.3-41.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-49/build-41/minecardstouhou-1.0.3-41.jar.asc"
+    "name": "minecardstouhou-1.2.1-45.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-49/build-45/minecardstouhou-1.2.1-45.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-49/build-45/minecardstouhou-1.2.1-45.jar.asc"
   },
   {
-    "name": "sinocraft-1.16.5-1.1.0-16.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-5/build-16/sinocraft-1.16.5-1.1.0-16.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-5/build-16/sinocraft-1.16.5-1.1.0-16.jar.asc"
+    "name": "sinocraft-1.16.5-1.1.0-17.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-5/build-17/sinocraft-1.16.5-1.1.0-17.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-5/build-17/sinocraft-1.16.5-1.1.0-17.jar.asc"
   },
   {
     "name": "favourite_tags-0.0.1-15.jar",
@@ -108,6 +108,11 @@
     "name": "Talisman-0.1.0+build.undefined-45.jar",
     "file": "https://archive.teacon.cn/2021/ci/build/team-52/build-45/Talisman-0.1.0%2Bbuild.undefined-45.jar",
     "sig": "https://archive.teacon.cn/2021/ci/build/team-52/build-45/Talisman-0.1.0%2Bbuild.undefined-45.jar.asc"
+  },
+  {
+    "name": "locusazzurro_icaruswings-1.16.5-0.1.0-56.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-53/build-56/locusazzurro_icaruswings-1.16.5-0.1.0-56.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-53/build-56/locusazzurro_icaruswings-1.16.5-0.1.0-56.jar.asc"
   },
   {
     "name": "decorations-1.0-13.jar",
@@ -125,14 +130,14 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-58/build-14/teamod-1.0.0-14.jar.asc"
   },
   {
-    "name": "the_elixir-1.1-37.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-59/build-37/the_elixir-1.1-37.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-59/build-37/the_elixir-1.1-37.jar.asc"
+    "name": "the_elixir-1.1-38.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-59/build-38/the_elixir-1.1-38.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-59/build-38/the_elixir-1.1-38.jar.asc"
   },
   {
-    "name": "miyaworld-1.0-9.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-61/build-9/miyaworld-1.0-9.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-61/build-9/miyaworld-1.0-9.jar.asc"
+    "name": "miyaworld-1.0-10.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-61/build-10/miyaworld-1.0-10.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-61/build-10/miyaworld-1.0-10.jar.asc"
   },
   {
     "name": "touhoulittlemaid-1.16.5-1.0.0-13.jar",
@@ -145,9 +150,9 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-63/build-28/chronicler_lh-alpha-0.1-28.jar.asc"
   },
   {
-    "name": "WaterSource-1.1.29-beta-1.16.5-13.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-64/build-13/WaterSource-1.1.29-beta-1.16.5-13.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-64/build-13/WaterSource-1.1.29-beta-1.16.5-13.jar.asc"
+    "name": "WaterSource-1.1.29-beta-1.16.5-14.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-64/build-14/WaterSource-1.1.29-beta-1.16.5-14.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-64/build-14/WaterSource-1.1.29-beta-1.16.5-14.jar.asc"
   },
   {
     "name": "goldtoucher-1.0-6.jar",
@@ -155,14 +160,14 @@
     "sig": "https://archive.teacon.cn/2021/ci/build/team-66/build-6/goldtoucher-1.0-6.jar.asc"
   },
   {
-    "name": "neubulaeko_slime-1.0-8.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-67/build-8/neubulaeko_slime-1.0-8.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-67/build-8/neubulaeko_slime-1.0-8.jar.asc"
+    "name": "neubulaeko_slime-1.0-10.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-67/build-10/neubulaeko_slime-1.0-10.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-67/build-10/neubulaeko_slime-1.0-10.jar.asc"
   },
   {
-    "name": "modid-1.0-8.jar",
-    "file": "https://archive.teacon.cn/2021/ci/build/team-70/build-8/modid-1.0-8.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/build/team-70/build-8/modid-1.0-8.jar.asc"
+    "name": "modid-1.0-13.jar",
+    "file": "https://archive.teacon.cn/2021/ci/build/team-70/build-13/modid-1.0-13.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/build/team-70/build-13/modid-1.0-13.jar.asc"
   },
   {
     "name": "magic_circle-1.0-54.jar",
@@ -178,11 +183,6 @@
     "name": "fortyyears-1.0-7.jar",
     "file": "https://archive.teacon.cn/2021/ci/maven/org/teacon/teacon2021/fortyyears/1.0-7/fortyyears-1.0-7.jar",
     "sig": "https://archive.teacon.cn/2021/ci/maven/org/teacon/teacon2021/fortyyears/1.0-7/fortyyears-1.0-7.jar.asc"
-  },
-  {
-    "name": "locusazzurro_icaruswings-1.16.5-0.1.0-55.jar",
-    "file": "https://archive.teacon.cn/2021/ci/maven/org/teacon/teacon2021/locusazzurro_icaruswings/1.16.5-0.1.0-55/locusazzurro_icaruswings-1.16.5-0.1.0-55.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/maven/org/teacon/teacon2021/locusazzurro_icaruswings/1.16.5-0.1.0-55/locusazzurro_icaruswings-1.16.5-0.1.0-55.jar.asc"
   },
   {
     "name": "darksword22-0.1.0-1.jar",
@@ -210,24 +210,24 @@
     "sig": "https://archive.teacon.cn/2021/ci/extra/Nickname-Forge-1.16-0.3.6.jar.asc"
   },
   {
-    "name": "SignMeUp-Forge-1.16-0.1.4.jar",
-    "file": "https://archive.teacon.cn/maven/org/teacon/SignMeUp-Forge-1.16/0.1.4/SignMeUp-Forge-1.16-0.1.4.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/extra/SignMeUp-Forge-1.16-0.1.4.jar.asc"
+    "name": "SignMeUp-Forge-1.16-0.1.6.jar",
+    "file": "https://archive.teacon.cn/maven/org/teacon/SignMeUp-Forge-1.16/0.1.6/SignMeUp-Forge-1.16-0.1.6.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/extra/SignMeUp-Forge-1.16-0.1.6.jar.asc"
   },
   {
-    "name": "SimplePermission-Forge-1.16-0.4.8.jar",
-    "file": "https://archive.teacon.cn/maven/org/teacon/SimplePermission-Forge-1.16/0.4.8/SimplePermission-Forge-1.16-0.4.8.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/extra/SimplePermission-Forge-1.16-0.4.8.jar.asc"
+    "name": "SimplePermission-Forge-1.16-0.4.10.jar",
+    "file": "https://archive.teacon.cn/maven/org/teacon/SimplePermission-Forge-1.16/0.4.10/SimplePermission-Forge-1.16-0.4.10.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/extra/SimplePermission-Forge-1.16-0.4.10.jar.asc"
   },
   {
-    "name": "SlideShow-Forge-1.16-0.5.0.jar",
-    "file": "https://archive.teacon.cn/maven/org/teacon/SlideShow-Forge-1.16/0.5.0/SlideShow-Forge-1.16-0.5.0.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/extra/SlideShow-Forge-1.16-0.5.0.jar.asc"
+    "name": "SlideShow-Forge-1.16-0.5.4.jar",
+    "file": "https://archive.teacon.cn/maven/org/teacon/SlideShow-Forge-1.16/0.5.4/SlideShow-Forge-1.16-0.5.4.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/extra/SlideShow-Forge-1.16-0.5.4.jar.asc"
   },
   {
-    "name": "VoteMe-Forge-1.16-0.3.0.jar",
-    "file": "https://archive.teacon.cn/maven/org/teacon/VoteMe-Forge-1.16/0.3.0/VoteMe-Forge-1.16-0.3.0.jar",
-    "sig": "https://archive.teacon.cn/2021/ci/extra/VoteMe-Forge-1.16-0.3.0.jar.asc"
+    "name": "VoteMe-Forge-1.16-0.5.3.jar",
+    "file": "https://archive.teacon.cn/maven/org/teacon/VoteMe-Forge-1.16/0.5.3/VoteMe-Forge-1.16-0.5.3.jar",
+    "sig": "https://archive.teacon.cn/2021/ci/extra/VoteMe-Forge-1.16-0.5.3.jar.asc"
   },
   {
     "name": "caelus-forge-1.16.5-2.1.3.0.jar",

@@ -1,0 +1,25 @@
+{
+  "type": "point",
+  "title": "第二红岸基地",
+  "selector": "@a",
+  "description": "《三体-智子》展馆",
+  "location": {
+    "actual": [
+      -81,
+      64,
+      333
+    ],
+    "render": [
+      -121,
+      64,
+      333
+    ]
+  },
+  "triggers": [
+    "teacon:triggers/teleport",
+    "threebodysophon:triggers/gitee"
+  ],
+  "images": [
+    "civilizationswars:textures/gui/banner.png"
+  ]
+}

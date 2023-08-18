@@ -1,0 +1,24 @@
+{
+    "type": "point",
+    "title": "飞电 Intelligence 大厦员工食堂",
+    "description": "Take off, toward a dream.",
+    "selector": "@a",
+    "location": {
+        "actual": [
+            426,
+            144,
+            517
+        ],
+        "render": [
+            432,
+            65,
+            528
+        ]
+    },
+    "triggers": [
+        "teacon:triggers/teleport_center"
+    ],
+    "images": [
+        "teacon:textures/gui/banner_hiden.png"
+    ]
+}

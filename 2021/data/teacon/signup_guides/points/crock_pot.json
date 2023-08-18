@@ -1,0 +1,19 @@
+{
+    "type": "point",
+    "title": "烹饪酒馆",
+    "selector": "@a",
+    "description": "将饥荒(Don't Starve)中烹饪锅带进Minecraft",
+    "location": {
+      "actual": [
+        -54,
+        68,
+        -464
+      ]
+    },
+    "triggers": [
+      "teacon:triggers/teleport"
+    ],
+    "images": [
+      "crockpot:textures/gui/banner.png"
+    ]
+  }
